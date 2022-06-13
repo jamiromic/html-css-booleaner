@@ -1,7 +1,8 @@
 #headimg{
     height: 100px;
     width: 1000px;
-    background-image: url(img/pattern.png);
+    background-image: url(../img/pattern.png);
+    back
     background-color: blue;
 }
 
@@ -26,6 +27,11 @@
 }
 
 #listalign{
+
+}
+
+#footerhead{
+    color: grey;
     
 }
 
