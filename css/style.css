@@ -1,39 +1,89 @@
 #headimg{
-    height: 100px;
-    width: 1000px;
+    /*Inserisco qui gli attributi per l'immagine dell'header*/
     background-image: url(../img/pattern.png);
-    back
-    background-color: blue;
+    background-color: lightskyblue;
+    height: 200px;
+    width: 1000px;
+    margin-bottom: -100px;
+}
+
+#imageboolean{
+    /*Attributi immagine The Booleaner*/
+  height: 80px;
+
 }
 
 
 #booleaner{
+    /*Attributi scritta blu The Booleaner*/
     color: blue;
 }
 
 .text1{
+    /*Testo in grigio che precede the Booleaner*/
     color: grey;
+    font-size: 20px;
     line-height: 1px;
 }
 
 .text2{
+    /*Testo con data*/
     font-size: 12px;
     line-height: 1px;
 }
 
+.text3{
+    color: grey;
+    line-height: 1px;
+    font-size: 16px;
+}
+
 #colortext{
+    /*Testo evidenziato*/
     background-color: yellow;
     text-align: justify;
 }
 
-#listalign{
-
-}
 
 #footerhead{
+    /*Testo del Footer*/
     color: grey;
-    
+
 }
 
+#tablehead{
+    /*Colore Testa della Tabella*/
+    background-color: blue;
+    color: white;
+    font-size: 14px;
+    text-align: left;
 
+}
 
+.table1{
+    /*Colore Righe*/
+    background-color: lightskyblue;
+}
+
+.cell{
+    /*Spaziatura Celle*/
+    width: 300px;
+}
+
+.foot1{
+    /*Immagine finale sotto Footer*/
+  background-image: url(../img/graph.jpg);
+  background-repeat: no-repeat;
+  height: 200px;
+  text-align: left;
+  color: white;
+}
+
+.foot2{
+     /*Immagine finale sotto Footer*/
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    text-align: left;
+    color: white;
+  }
