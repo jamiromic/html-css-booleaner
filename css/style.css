@@ -38,7 +38,7 @@
     font-size: 16px;
 }
 
-#colortext{
+.colortext{
     /*Testo evidenziato*/
     background-color: yellow;
     text-align: justify;
