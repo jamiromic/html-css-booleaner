@@ -1,3 +1,21 @@
+#headimg{
+    height: 100px;
+    width: 1000px;
+    background-image: url(img/pattern.png);
+    background-color: blue;
+}
+
+
+#booleaner{
+    color: blue;
+}
+
+.text1{
+    color: grey;
+}
+
+
+
 
 
 
